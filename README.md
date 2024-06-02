@@ -51,6 +51,5 @@ npx vercel env pull .env.development.local
 ```
 
 Due to bugs in vercel, please rename .env.development.local to .env
-#   r e c r u i t a i r 
  
  
